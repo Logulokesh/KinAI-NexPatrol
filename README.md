@@ -9,10 +9,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Alerts-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
 
 **Privacy-First | AI-Driven | GPU-Accelerated | Real-Time Alerts**
+<!-- 👇 Add your GIF here -->
 
 </div>
 
----
 <!-- Row 1: Identify the Challenge -->
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
   <tr>
@@ -70,13 +70,17 @@
   </tr>
 </table>
 
+
+
 ## 🎯 Overview
 
 KinAi-Nexpatrol is a **privacy-first, AI-driven home surveillance system** designed to eliminate the flood of unnecessary camera notifications. Inspired by anti-financial crime expertise, it leverages **YOLOv8** for person detection, **InsightFace** for face recognition, and **LLMs** (via Ollama) for risk assessment. 
 
 🔐 **Runs completely locally** in a Dockerized environment on an NVIDIA GPU for maximum security and efficiency.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/Logo.gif" alt="KinAi-Nexpatrol" width="50%" />
+</p>
 
 ## 🚀 What KinAi-Nexpatrol Does
 
@@ -85,13 +89,12 @@ KinAi-Nexpatrol processes camera feeds to recognize faces, assess risks, and sen
 <p align="center">
   <img src="logo.gif" alt="Demo" width="50%" />
 </p>
----
+
 
 ## ✨ Key Features
 
 | Feature | Description | Icon |
 |---------|-------------|------|
-| **Multi-Camera Support** | Process multiple camera feeds simultaneously | 📹 |
 | **Advanced Face Recognition** | Identify family members vs unknown visitors | 👥 |
 | **Persistent Visitor Tracking** | Track recurring visitors with unique ULIDs | 🔍 |
 | **AI Risk Assessment** | Smart risk scoring using LLMs | 🧠 |
@@ -103,6 +106,7 @@ KinAi-Nexpatrol processes camera feeds to recognize faces, assess risks, and sen
 | **Configurable Settings** | Customizable thresholds and cooldowns | ⚙️ |
 | **n8n Workflow Automation** | Advanced notification workflows | 🔄 |
 | **Training Module** | Learn and recognize family faces | 🎓 |
+| **Multi-Camera Support** | Process multiple camera feeds simultaneously | 📹 |
 
 ---
 
