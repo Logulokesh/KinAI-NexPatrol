@@ -82,18 +82,9 @@ KinAi-Nexpatrol is a **privacy-first, AI-driven home surveillance system** desig
 
 KinAi-Nexpatrol processes camera feeds to recognize faces, assess risks, and send alerts only for significant events, reducing notification overload. 
 
-```mermaid
-graph TD
-    A[📹 Camera Feed] --> B{👤 Face Recognition}
-    B -->|Known Face Family| C[✅ No Alert]
-    B -->|❓ Unknown Face| D{🔍 Previously Visited?}
-    D -->|✅ Yes| E[🚩 Flag Returning Visitor]
-    D -->|❌ No| F[🆕 New Visitor Detected]
-    E --> G[🧠 AI Risk Assessment]
-    F --> G
-    G --> H[📱 Telegram Alert with Risk Rating]
-```
-
+<p align="center">
+  <img src="logo.gif" alt="Demo" width="50%" />
+</p>
 ---
 
 ## ✨ Key Features
