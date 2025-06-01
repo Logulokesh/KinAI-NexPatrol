@@ -458,7 +458,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for full details.
+This project is licensed under the **MIT License**.
 
 ---
 
