@@ -312,13 +312,14 @@ KinAi-Nexpatrol uses **anti-financial crime principles** for intelligent threat 
 
 ### 📊 Risk Scoring Matrix
 
-| 🚨 Risk Factor | 🆕 New Visitor | 👤 Known Visitor | Description |
-|---------------|---------------|-----------------|-------------|
-| 😷 **Face Mask** | +3 | +1 | Surgical/cloth mask obscuring face |
-| 🧥 **Full Hoodie** | +4 | +2 | Hood up, face partially hidden |
-| 🔪 **Weapon/Suspicious Object** | +5 | +3 | Visible weapon or concerning item |
-| 🌙 **Nighttime (10PM-5AM)** | +2 | +1 | Activity during late hours |
-| 🚫 **Restricted Area** | +2 | +1 | Presence in designated zones |
+| Risk Factor | 🆕 New Visitor | 👤 Known Visitor | Description |
+|-------------|----------------|------------------|-------------|
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/5.png" width="70"/> **Face Mask** | +3 | +1 | Surgical/cloth mask obscuring face |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/1.png" width="70"/> **Full Hoodie** | +4 | +2 | Hood up, face partially hidden |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/2.png" width="70"/> **Weapon/Suspicious Object** | +5 | +3 | Visible weapon or concerning item |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/3.png" width="70"/> **Nighttime (10PM–5AM)** | +2 | +1 | Activity during late hours |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/4.png" width="70"/> **Restricted Area** | +2 | +1 | Presence in designated zones |
+
 
 ### 🚦 Alert Levels
 
