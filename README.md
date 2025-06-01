@@ -452,8 +452,6 @@ gh pr create
 - 🧪 **Testing**: Expand test coverage
 - 🎨 **UI/UX**: Enhance user experience
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
 ## 📜 License
