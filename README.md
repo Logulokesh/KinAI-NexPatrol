@@ -12,21 +12,19 @@
 <!-- 👇 Add your GIF here -->
 
 </div>
-
 <!-- Row 1: Identify the Challenge -->
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
   <tr>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/identify.png"  width="180" alt="Identify" />
+      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/identify.png" width="180" alt="Identify" />
     </td>
     <td style="padding: 40px; vertical-align: top;">
       <h2 style="color: #2563eb; display: flex; align-items: center; gap: 10px; margin-top: 0;">
         <span style="font-size: 24px;">🔍</span> 1. Identify the Challenge
       </h2>
       <p>
-        Traditional home security systems often flood users with constant notifications — triggered by pets, wind-blown branches, or even shifting shadows. This deluge of irrelevant alerts leads to alert fatigue, making it harder for homeowners to notice genuine threats, especially during critical hours like late at night.
+        Traditional home security systems often flood users with constant notifications 📱 — triggered by pets, wind-blown branches, or even shifting shadows. This deluge of irrelevant alerts ⚠️ leads to alert fatigue 🚨, making it harder for homeowners to notice genuine threats 🧠, especially during critical hours like late at night.
       </p>
-      <div style="font-size: 20px;">⚠️ 🚨 📱 🧠</div>
     </td>
   </tr>
 </table>
@@ -39,15 +37,14 @@
         <span style="font-size: 24px;">⚙️</span> 2. Engineer the Approach
       </h2>
       <p>
-        A next-generation surveillance system has been developed using <strong>AI-powered computer vision</strong> and <strong>context-aware behavior analysis</strong>. It learns what “normal” looks like in a given environment and distinguishes harmless movement from potentially dangerous activity.
+        A next-generation surveillance system has been developed using <strong>AI-powered 🤖 computer vision 👁️</strong> and <strong>context-aware behavior analysis 🧠</strong>. It learns what “normal” looks like in a given environment and distinguishes harmless movement from potentially dangerous activity 🔍.
       </p>
       <p>
-        It can detect anomalies—such as an unfamiliar person in dark clothing appearing at 3AM—while filtering out false triggers like a cat walking by or leaves rustling.
+        It can detect anomalies 🎯—such as an unfamiliar person in dark clothing appearing at 3AM—while filtering out false triggers like a cat walking by or leaves rustling.
       </p>
-      <div style="font-size: 20px;">🧠 👁️ 🔍 🤖 🎯</div>
     </td>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/support.png"  width="180" alt="Support" />
+      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/support.png" width="180" alt="Support" />
     </td>
   </tr>
 </table>
@@ -56,16 +53,15 @@
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
   <tr>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/empower.png"  width="180" alt="Empower" />
+      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/empower.png" width="180" alt="Empower" />
     </td>
     <td style="padding: 40px; vertical-align: top;">
       <h2 style="color: #dc2626; display: flex; align-items: center; gap: 10px; margin-top: 0;">
         <span style="font-size: 24px;">✅</span> 3. Implement the Outcome
       </h2>
       <p>
-        The result is a highly intelligent alert system that delivers only meaningful, high-priority notifications. By reducing noise and focusing on real risks, this approach gives users true peace of mind, without the stress and distraction of constant false alarms.
+        The result is a highly intelligent alert system 🔔 that delivers only meaningful, high-priority notifications ✅. By reducing noise and focusing on real risks 🛡️, this approach gives users true peace of mind 🧘‍♂️, without the stress and distraction of constant false alarms in their home 🏠.
       </p>
-      <div style="font-size: 20px;">🔔 ✅ 🛡️ 🧘‍♂️ 🏠</div>
     </td>
   </tr>
 </table>
@@ -480,16 +476,6 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for f
 - Community-driven open source development
 
 ---
-
-## 📞 Support & Contact
-
-<div align="center">
-
-### 🔗 Get Help & Connect
-
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/kinai-nexpatrol/issues)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourcommunity)
 
 **🛡️ Secure your home with KinAi-Nexpatrol!**
 
