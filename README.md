@@ -146,7 +146,32 @@ KinAi-Nexpatrol processes camera feeds to recognize faces, assess risks, and sen
 | **Multi-Camera Support** | Process multiple camera feeds simultaneously | 📹 |
 
 ---
+## ⚠️ Risk Assessment System
 
+KinAi-Nexpatrol uses **anti-financial crime principles** for intelligent threat detection:
+
+### 📊 Risk Scoring Matrix
+
+| Risk Factor | 🆕 New Visitor | 👤 Known Visitor | Description |
+|-------------|----------------|------------------|-------------|
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/5.png" width="70"/> **Face Mask** | +3 | +1 | Surgical/cloth mask obscuring face |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/1.png" width="70"/> **Full Hoodie** | +4 | +2 | Hood up, face partially hidden |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/2.png" width="70"/> **Weapon/Suspicious Object** | +5 | +3 | Visible weapon or concerning item |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/3.png" width="70"/> **Nighttime (10PM–5AM)** | +2 | +1 | Activity during late hours |
+| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/4.png" width="70"/> **Restricted Area** | +2 | +1 | Presence in designated zones |
+
+
+### 🚦 Alert Levels
+
+| Level | Score Range | Action | Icon |
+|-------|------------|--------|------|
+| **Low** | 0-2 | Monitor only | ✅ |
+| **Medium** | 3-4 | Standard alert | ⚠️ |
+| **High** | 5-6 | Priority notification | 🚨 |
+| **Very High** | 7-8 | Urgent alert | 🔴 |
+| **Extreme** | 9+ | Emergency notification | 🆘 |
+
+---
 ## 🏗️ System Architecture
 
 <details>
@@ -343,32 +368,7 @@ docker exec -it nexpatrol_agent python3 /app/src/train_faces.py
 
 ---
 
-## ⚠️ Risk Assessment System
 
-KinAi-Nexpatrol uses **anti-financial crime principles** for intelligent threat detection:
-
-### 📊 Risk Scoring Matrix
-
-| Risk Factor | 🆕 New Visitor | 👤 Known Visitor | Description |
-|-------------|----------------|------------------|-------------|
-| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/5.png" width="70"/> **Face Mask** | +3 | +1 | Surgical/cloth mask obscuring face |
-| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/1.png" width="70"/> **Full Hoodie** | +4 | +2 | Hood up, face partially hidden |
-| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/2.png" width="70"/> **Weapon/Suspicious Object** | +5 | +3 | Visible weapon or concerning item |
-| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/3.png" width="70"/> **Nighttime (10PM–5AM)** | +2 | +1 | Activity during late hours |
-| <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/src/4.png" width="70"/> **Restricted Area** | +2 | +1 | Presence in designated zones |
-
-
-### 🚦 Alert Levels
-
-| Level | Score Range | Action | Icon |
-|-------|------------|--------|------|
-| **Low** | 0-2 | Monitor only | ✅ |
-| **Medium** | 3-4 | Standard alert | ⚠️ |
-| **High** | 5-6 | Priority notification | 🚨 |
-| **Very High** | 7-8 | Urgent alert | 🔴 |
-| **Extreme** | 9+ | Emergency notification | 🆘 |
-
----
 
 ## 🛠️ Installation Guide
 
