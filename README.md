@@ -1,5 +1,8 @@
 # 🏠 KinAi-Nexpatrol: AI-Powered Home Surveillance System 🤖
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Logulokesh/KinAI-NexPatrol/refs/heads/main/src/Logo-1.gif" alt="KinAi-Nexpatrol" width="80%" />
+</p>
 <div align="center">
 
 ![KinAi-Nexpatrol Banner](https://img.shields.io/badge/KinAi--Nexpatrol-AI%20Surveillance-blue?style=for-the-badge&logo=security&logoColor=white)
