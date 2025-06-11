@@ -119,7 +119,7 @@ KinAi-Nexpatrol is a **privacy-first, AI-driven home surveillance system** desig
 🔐 **Runs completely locally** in a Dockerized environment on an NVIDIA GPU for maximum security and efficiency.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/Logo.gif" alt="KinAi-Nexpatrol" width="50%" />
+  <img src="https://raw.githubusercontent.com/Logulokesh/KinAi-NexPatrol-AI-powered-home-surveillance/refs/heads/main/Logo.gif" alt="KinAi-Nexpatrol" width="100%" />
 </p>
 
 ## 🚀 What KinAi-Nexpatrol Does
