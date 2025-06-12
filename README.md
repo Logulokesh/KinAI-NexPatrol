@@ -318,9 +318,11 @@ graph TD
 
 ---
 
-## 📡 n8n Workflow Automation
+## 📡 n8n Workflow Automation & 📸 Screenshots
 
-The **n8n workflow** (`PATROL.json`) is the brain of KinAi-Nexpatrol's notification system:
+![n8n Workflow Overview](https://raw.githubusercontent.com/Logulokesh/KinAI-NexPatrol/refs/heads/main/src/NexPatrol-n8n.jpg)
+
+The **n8n workflow** (`NexPatrol.json`) is the brain of KinAi-Nexpatrol's notification system:
 
 ### 🎯 Key Functions
 - 🌐 **Webhook Processing**: Receives alerts from each camera endpoint
@@ -462,46 +464,6 @@ sqlite3 /app/data/nexpatrol.db "SELECT * FROM detections LIMIT 10;"
 # Review visitor database  
 sqlite3 /app/data/unknown_visitors.db "SELECT * FROM visitors;"
 ```
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how to get involved:
-
-### 🔄 Development Workflow
-
-```bash
-# 1️⃣ Fork the repository
-gh repo fork yourusername/kinai-nexpatrol
-
-# 2️⃣ Create feature branch
-git checkout -b feature/amazing-new-feature
-
-# 3️⃣ Make your changes
-# ... code awesome features ...
-
-# 4️⃣ Commit with clear message
-git commit -m "✨ Add amazing new feature"
-
-# 5️⃣ Push and create PR
-git push origin feature/amazing-new-feature
-gh pr create
-```
-
-### 📋 Contribution Areas
-- 🐛 **Bug Fixes**: Help us squash issues
-- ✨ **New Features**: Add exciting capabilities  
-- 📚 **Documentation**: Improve guides and examples
-- 🧪 **Testing**: Expand test coverage
-- 🎨 **UI/UX**: Enhance user experience
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
 ---
 
 ## 🙌 Acknowledgments
@@ -529,7 +491,6 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-### ⭐ Star this repo if KinAi-Nexpatrol helps secure your home!
 
 **Made with ❤️ for the privacy-conscious security community**
 
