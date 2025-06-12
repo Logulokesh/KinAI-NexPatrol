@@ -175,6 +175,83 @@ KinAi-Nexpatrol uses **anti-financial crime principles** for intelligent threat 
 | **Extreme** | 9+ | Emergency notification | 🆘 |
 
 ---
+## 🚨 KinAi-Nexpatrol Security Alert
+>✅ Images are included in the actual Telegram alerts
+# 🚨 KinAi-Nexpatrol Security Alert Samples
+
+## 🆘 EXTREME RISK (Score: 9+)
+
+| Field | Alert #1 | Alert #2 |
+|-------|----------|----------|
+| **Risk Level** | **EXTREME** (Score: 10) | **EXTREME** (Score: 11) |
+| **Camera** | front_entrance | backyard_cam |
+| **Time** | 2025-06-12 02:47:15 | 2025-06-12 03:22:41 |
+| **Visitor Type** | New Visitor | New Visitor |
+| **First Seen** | 2025-06-12 02:47:15 | 2025-06-12 03:22:41 |
+| **Last Seen** | 2025-06-12 02:47:15 | 2025-06-12 03:22:41 |
+| **Message** | *[Image attached for privacy - not included here]*<br><br>Individual, approximately 30-40 years old, completely concealed with black ski mask covering entire face except eye holes. Wearing all-black clothing including thick winter jacket. Person is crouched near front door, holding what appears to be a crowbar or similar metallic tool. | *[Image attached for privacy - not included here]*<br><br>Multiple individuals (2-3 people) detected in restricted backyard area. Primary subject appears to be 20-30 years old, wearing dark clothing with hood pulled up and bandana covering lower face. Subject is holding what appears to be a flashlight. Secondary subjects visible in shadows, also wearing dark concealing clothing. |
+| **Risk Factors** | Full face mask, Nighttime activity, Suspicious tool/weapon, Restricted area | Face covering, Full hoodie, Nighttime activity, Multiple suspects, Restricted area, Flashlight/tools |
+
+---
+
+## 🔴 VERY HIGH RISK (Score: 7-8)
+
+| Field | Alert #3 | Alert #4 |
+|-------|----------|----------|
+| **Risk Level** | **VERY HIGH** (Score: 8) | **VERY HIGH** (Score: 7) |
+| **Camera** | side_garden | driveway_cam |
+| **Time** | 2025-06-12 01:15:33 | 2025-06-12 23:45:12 |
+| **Visitor Type** | New Visitor | New Visitor |
+| **First Seen** | 2025-06-12 01:15:33 | 2025-06-12 23:45:12 |
+| **Last Seen** | 2025-06-12 01:15:33 | 2025-06-12 23:45:12 |
+| **Message** | *[Image attached for privacy - not included here]*<br><br>Individual, approximately 25-35 years old, wearing surgical mask and dark hoodie with hood up. Carrying large duffel bag and positioned near side gate. Person appears to be examining the gate latch mechanism. | *[Image attached for privacy - not included here]*<br><br>Individual, approximately 20-25 years old, detected near vehicles in driveway. Wearing baseball cap pulled low and face mask. Person appears to be near car door handles and has backpack visible. |
+| **Risk Factors** | Face mask, Full hoodie, Nighttime activity, Suspicious position at entry point | Face mask, Baseball cap, Nighttime activity, Position near vehicles |
+
+---
+
+## 🚨 HIGH RISK (Score: 5-6)
+
+| Field | Alert #5 | Alert #6 |
+|-------|----------|----------|
+| **Risk Level** | **HIGH** (Score: 6) | **HIGH** (Score: 5) |
+| **Camera** | front_porch | right_cam |
+| **Time** | 2025-06-12 22:30:45 | 2025-06-12 13:45:22 |
+| **Visitor Type** | New Visitor | New Visitor |
+| **First Seen** | 2025-06-12 22:30:45 | 2025-06-12 13:45:22 |
+| **Last Seen** | 2025-06-12 22:30:45 | 2025-06-12 13:45:22 |
+| **Message** | *[Image attached for privacy - not included here]*<br><br>Individual, approximately 30-40 years old, wearing dark hoodie with hood up approaching front door. Appears to be carrying clipboard or folder. Facial features obscured by hood shadow. | *[Image attached for privacy - not included here]*<br><br>Individual, approximately 18-25 years old, detected in side yard area. Wearing face mask and dark clothing, carrying what appears to be toolbox or equipment case. |
+| **Risk Factors** | Full hoodie, Late evening activity, Approaching main entrance | Face mask, Restricted area access, Unknown tools/equipment |
+
+---
+
+## ⚠️ MEDIUM RISK (Score: 3-4)
+
+| Field | Alert #7 | Alert #8 |
+|-------|----------|----------|
+| **Risk Level** | **MEDIUM** (Score: 4) | **MEDIUM** (Score: 3) |
+| **Camera** | front_walkway | main_entrance |
+| **Time** | 2025-06-12 19:15:30 | 2025-06-12 08:45:12 |
+| **Visitor Type** | New Visitor | New Visitor |
+| **First Seen** | 2025-06-12 19:15:30 | 2025-06-12 08:45:12 |
+| **Last Seen** | 2025-06-12 19:15:30 | 2025-06-12 08:45:12 |
+| **Message** | *[Image attached for privacy - not included here]*<br><br>Individual, approximately 25-30 years old, detected at front gate. Wearing hood up due to apparent weather conditions and appears to be checking house numbers. Holding what looks like delivery envelope or package. | *[Image attached for privacy - not included here]*<br><br>Individual, approximately 40-50 years old, wearing work uniform and baseball cap. Appears to be at utility box near house. Clipboard and official-looking equipment visible. |
+| **Risk Factors** | Hoodie/hood up, Evening hours, Unfamiliar person | Baseball cap, Unfamiliar person, Access to utility areas |
+
+---
+
+## ✅ LOW RISK (Score: 0-2)
+
+| Field | Alert #9 | Alert #10 | Alert #11 |
+|-------|----------|-----------|-----------|
+| **Risk Level** | **LOW** (Score: 2) | **LOW** (Score: 1) | **LOW** (Score: 0) |
+| **Camera** | front_yard | driveway_entrance | side_entrance |
+| **Time** | 2025-06-12 14:30:18 | 2025-06-12 16:20:45 | 2025-06-12 17:45:30 |
+| **Visitor Type** | New Visitor | New Visitor | Known Visitor (John's Friend - Mark) |
+| **First Seen** | 2025-06-12 14:30:18 | 2025-06-12 16:20:45 | 2025-05-15 14:20:10 |
+| **Last Seen** | 2025-06-12 14:30:18 | 2025-06-12 16:20:45 | 2025-06-12 17:45:30 |
+| **Description** | Individual, approximately 65-75 years old, walking small dog on sidewalk adjacent to property. Face clearly visible, wearing casual daytime clothing appropriate for weather. Standard neighborhood activity. | Individual, approximately 20-25 years old, wearing delivery uniform with company logo visible. Carrying packages and referring to delivery device. Clear identification possible, professional appearance. | Recognized individual - Mark Thompson, frequent visitor and friend of resident John. Approximately 30 years old, wearing casual clothing. Face clearly visible and matched against known visitor database. |
+| **Risk Factors** | Unfamiliar person near property | Unfamiliar delivery person | None - Known friendly visitor |
+---
 ## 🏗️ System Architecture
 
 <details>
