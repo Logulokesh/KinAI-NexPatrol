@@ -19,7 +19,7 @@
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
   <tr>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/identify.png" width="180" alt="Identify" />
+      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/identify.png" width="400" alt="Identify" />
     </td>
     <td style="padding: 40px; vertical-align: top;">
       <h2 style="color: #2563eb; display: flex; align-items: center; gap: 10px; margin-top: 0;">
@@ -88,7 +88,7 @@ It’s about smarter alerts. 🛡️</strong></span>
       </p>
     </td>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/support.png" width="180" alt="Support" />
+      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/support.png" width="400" alt="Support" />
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@ It’s about smarter alerts. 🛡️</strong></span>
 <table style="width: 100%; border-collapse: collapse; font-family: sans-serif;">
   <tr>
     <td style="width: 200px; text-align: center; vertical-align: top; padding: 40px;">
-      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/empower.png" width="180" alt="Empower" />
+      <img src="https://raw.githubusercontent.com/Logulokesh/VICTutorAI-Offline-Educational-Activity-Generator/main/empower.png" width="400" alt="Empower" />
     </td>
     <td style="padding: 40px; vertical-align: top;">
       <h2 style="color: #dc2626; display: flex; align-items: center; gap: 10px; margin-top: 0;">
