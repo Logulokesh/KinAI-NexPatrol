@@ -568,7 +568,21 @@ sqlite3 /app/data/unknown_visitors.db "SELECT * FROM visitors;"
 
 <div align="center">
 
-
-**Made with ❤️ for the privacy-conscious security community**
+[![Contributors](https://contrib.rocks/image?repo=Logulokesh/KinAI-Ecosystem)](https://github.com/Logulokesh/KinAI-Ecosystem/graphs/contributors)
 
 </div>
+
+---
+
+## 📄 License
+
+Yes, it’s completely free — just like a gesture of support 🤝, a nod of appreciation 👍, or a reassuring smile 😊.
+
+---
+
+<div align="center">
+
+**Built with passion ❤️ for privacy, intelligence, and automation**
+
+</div>
+
