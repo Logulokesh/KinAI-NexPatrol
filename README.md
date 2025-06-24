@@ -38,7 +38,7 @@
 </td>
 <td width="80%">
 <details>
-<summary><strong>🧠 Thinking Like a Real Human Agent</strong></summary>
+<summary><strong>🧠 Think Like a Human — Show Thinking </strong></summary>
 
 <p>
 <strong>Imagine this:</strong> You're deep in an important meeting, your boss is mid-sentence, and <em>ding!</em> —<br>
